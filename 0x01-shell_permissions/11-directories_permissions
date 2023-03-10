@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ogu+x $(find ../ -type d)
+chmod -R ogu+x $(find . -type d)
